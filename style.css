@@ -208,7 +208,7 @@ input[type="date"] {
 }
 
 #add-task-plus-btn:active {
-    transform: scale(1.1); /* Slightly grow when clicked */
+    transform: scale(1.1); 
 }
 
 
